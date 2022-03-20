@@ -1,6 +1,1 @@
-plugins=(
-    git
-    zsh-autosuggestions
-    kubectl
-    zsh-syntax-highlighting
-)
+plugins=(git zsh-autosuggestions kubectl zsh-syntax-highlighting)
